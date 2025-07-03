@@ -39,11 +39,6 @@ A modern, stylish guestbook web application built with Python, Supabase, and Fas
    python main.py
    ```
 
-## Screenshots
-![Demo](fasthtml-guestbook-supabase-main/assets/demo.gif)
-
 ## Author
 Made with ❤️ by [Ayush Kakkar](https://www.linkedin.com/in/ayush-kakkar-11a24a252/)
 
-## License
-This project is open source and available under the [MIT License](LICENSE).
